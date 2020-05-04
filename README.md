@@ -1,2 +1,19 @@
-# docker-python-flask-mongodb
-docker python flask mongodb simple REST API
+
+## Requirements
+
+- Python 3
+- Flask
+- docker
+- docker-compose
+- mondodb
+
+
+## Launch 
+
+Launch it in your terminal:
+```sh
+    docker-compose build
+
+    docker-compose up
+```
+
